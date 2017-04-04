@@ -1,6 +1,8 @@
 #ifndef _SETTINGS_H_
 #define _SETTINGS_H_
 
+#include <Arduino.h>
+
 namespace Pin {
     const uint8_t BUTTON1 = 10;
     const uint8_t BUTTON2 = 11;
